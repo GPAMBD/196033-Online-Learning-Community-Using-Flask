@@ -23,6 +23,7 @@
 
 
 <h4>This is a online community platform for all students , programmers , and peoples in technical field created with the help of flask framework in python.
+Here anyone can contribute their articles , discuss their questions and compile and run their programs online in many different languages.
  
 </h4>
 --------------------------------------------------------------------------------------------------------------------------------
